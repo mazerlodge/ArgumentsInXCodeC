@@ -1,5 +1,7 @@
 # ArgumentsInXCodeC
 
+Weekly Source Code #201802
+
 Just a quick demo of setting and processing arguments
 in an XCode C project.
 
